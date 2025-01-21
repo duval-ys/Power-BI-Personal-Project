@@ -3,9 +3,13 @@ This Power BI project aims to provide a comprehensive financial dashboard that t
 
 
 
-##KPI questions
+## KPI questions
+
+
  What is the current savings percentage compared to the previous month?
 
+
  What is the average monthly expense over the last year?
+
 
  How does the savings percentage impact overall financial growth?
